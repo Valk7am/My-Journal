@@ -1,0 +1,57 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "cnEmOROL5NZQTNKb7OUKe",
+      "name": "Warm Light",
+      "value": "#f4a83e"
+    },
+    {
+      "id": "3HkR1tmjqT5R9I4D4DFqX",
+      "name": "Cool Light",
+      "value": "#41abfb"
+    },
+    {
+      "id": "BHI9Uf5HRKtrh1owyekOH",
+      "name": "Sharp Light",
+      "value": "#ff4d4d"
+    },
+    {
+      "id": "T-e_Wj1G7QNURJU2Kzz3J",
+      "name": "green",
+      "value": "#6aff4d"
+    },
+    {
+      "id": "FN-ZYStFoG2RVPLNdPHFi",
+      "name": "hotpink",
+      "value": "#ce47ff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "01 - Daily",
+      "color": "cnEmOROL5NZQTNKb7OUKe"
+    },
+    {
+      "path": "Dashboard.md",
+      "color": "BHI9Uf5HRKtrh1owyekOH"
+    },
+    {
+      "path": "02 - Notes",
+      "color": "3HkR1tmjqT5R9I4D4DFqX"
+    },
+    {
+      "path": "03 - Resources",
+      "color": "T-e_Wj1G7QNURJU2Kzz3J"
+    },
+    {
+      "path": "03 - Resources/Attachements/24-hours.png",
+      "color": "3HkR1tmjqT5R9I4D4DFqX"
+    },
+    {
+      "path": "04 - Projects",
+      "color": "FN-ZYStFoG2RVPLNdPHFi"
+    }
+  ]
+}

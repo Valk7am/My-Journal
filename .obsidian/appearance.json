@@ -1,0 +1,9 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "accentColor": "#f5ad5c",
+  "enabledCssSnippets": [
+    "css"
+  ],
+  "translucency": true
+}

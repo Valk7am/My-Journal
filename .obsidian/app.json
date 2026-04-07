@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "03 - Resources/Attachements",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1 - Notes",
+  "openBehavior": "file:Dashboard",
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "showLineNumber": false
+}

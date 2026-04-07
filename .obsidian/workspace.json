@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "b7bc3bcc4f9fe2b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "561a217dbdaa0c00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b01d802afb32cc8c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea5f892af9f94d71",
+    "type": "split",
+    "children": [
+      {
+        "id": "216dabbdf2a7d8f7",
+        "type": "tabs",
+        "dimension": 34.488888888888894,
+        "children": [
+          {
+            "id": "dcc3fc99d0567f3e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "85be7ee97307d5d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "55bcf8a330c089e5",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bb90807afb808495",
+        "type": "tabs",
+        "dimension": 65.5111111111111,
+        "children": [
+          {
+            "id": "540cf990616fc994",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c8f2ae2febf32e62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5024719238281
+  },
+  "right": {
+    "id": "178e90c50342d013",
+    "type": "split",
+    "children": [
+      {
+        "id": "896385beb4bd5c17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1272597e73806a80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "3aa8f2d721a364c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard"
+            }
+          },
+          {
+            "id": "7b8e0687ea631db3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2a947a7c02f27923",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "50b1bdde800cc5f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro timer": false,
+      "tasknotes:Open pomodoro statistics": false,
+      "tasknotes:Create new task": false,
+      "obsidian-kanban:Create new board": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b01d802afb32cc8c",
+  "lastOpenFiles": [
+    "README.md",
+    "03 - Resources/Templates/Daily Note template.md",
+    "My-Journal/README.md",
+    "My-Journal/My Journal.zip",
+    "My-Journal",
+    "https:/github.com/Valk7am/My-Journal.git",
+    "https:/github.com/Valk7am",
+    "https:/github.com",
+    "https:",
+    "03 - Resources/Templates/Meeting Note Template.md",
+    "Dashboard.md",
+    "01 - Daily/2026/April/07 - Tuesday.md",
+    "01 - Daily/07 - Tuesday.md",
+    "02 - Notes/Tasks/Kanban.md",
+    "Untitled Kanban.md",
+    "02 - Notes/New Idea.md",
+    "02 - Notes/Ideas/New Idea.md",
+    "02 - Notes%2Ideas/New Idea.md",
+    "02 - Notes%2Ideas",
+    "02 - Notes/Meeting/New Meeting.md",
+    "02 - Notes/Meeting/New Meeting 1.md",
+    "01 - Daily/2026/April/06 - Monday.md",
+    "03 - Resources/Attachements/wallhaven_banner.jpg",
+    "03 - Resources/Attachements/wallhaven_banner1.jpg",
+    "03 - Resources/Attachements/wallhaven_banner2.jpg",
+    "03 - Resources/Attachements/wallhaven-5ywe35.jpg",
+    "01 - Daily/2026/April/01 - Wednesday.md",
+    "01 - Daily/2026/April/05 - Sunday.md",
+    "01 - Daily/2026/April/02 - Thursday.md",
+    "03 - Resources/Attachements/like-svgrepo-com.svg",
+    "03 - Resources/Attachements/icons/group.svg",
+    "03 - Resources/Attachements/icons/like.svg",
+    "03 - Resources/Attachements/icons/edit.svg",
+    "03 - Resources/Attachements/icons/bookmark.svg",
+    "03 - Resources/Attachements/icons/mail.svg",
+    "03 - Resources/Attachements/icons",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban 2.md",
+    "02 - Notes/Tasks",
+    "Untitled",
+    "02 - Notes/help me know why.md",
+    "01 - Daily/02 - Thursday.md",
+    "02 - Notes/New Idea 1.md",
+    "02 - Notes/New Idea 2.md",
+    "01 - Daily/01 - Wednesday.md",
+    "03 - Resources/Templates/New Idea.md",
+    "Untitled.canvas"
+  ]
+}
