@@ -7,15 +7,15 @@ running on Version 1.12.7 of obsidian.
 
 Community plugins used:
 
-Advanced URI
-Calendar
-Dataview
-Editing Toolbar
-File Color
-File Explorer++
-Heatmap Calendar
-Kanban
-Live Background
-Pretty Properties
-Templater
-Vertical Tabs
+- Advanced URI
+- Calendar
+- Dataview
+- Editing Toolbar
+- File Color
+- File Explorer++
+- Heatmap Calendar
+- Kanban
+- Live Background
+- Pretty Properties
+- Templater
+- Vertical Tabs
